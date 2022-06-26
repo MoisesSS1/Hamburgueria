@@ -1,14 +1,13 @@
 import './App.css';
 import Header from './components/Header'
-import ParaComer from './components/ParaComer';
+import Main from './components/Main'
 
 function App() {
   return (
     <div className="App">
 
       <Header></Header>
-      <ParaComer></ParaComer>
-
+      <Main></Main>
     </div>
   );
 }

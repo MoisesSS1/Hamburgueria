@@ -1,20 +1,20 @@
 import React from 'react'
 import styles from './ParaComer.module.css'
-import BatataFrita from '../images/batata_frita.jpg'
 
-const ParaComer = () => {
+const ParaComer = (props) => {
+
   return (
     <div className={styles.card}>
-        <p>Batata Frita</p>
-        <img src={BatataFrita} alt="" />
-        <p>R$: 10,99</p>
-        <details open='open'>
+        <p>{props.nome}</p>
+
+        <img src={props.imageSRC} alt={props.descricao} />
+
+        <p>{props.preco}</p>
+
+        <details>
         <summary>Composição</summary>
-            <p>- Corte artesanal</p>
-            <p>- Cheddar</p>
-            <p>- Bacon</p>
-            <p>- Queijo prato</p>
-            <p>- Maionese</p>
+        <p>{props.ingredientes}</p>
+        
         </details>
     </div>
   )
