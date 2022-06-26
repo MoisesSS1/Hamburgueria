@@ -3,6 +3,7 @@ import style from '../components/Main.module.css'
 import ParaComer from '../components/ParaComer'
 import BatataFrita from '../images/batata_frita.jpg'
 import Hamburguer from '../images/hamburger.jpg'
+import File_frango from '../images/file_frango.jpg'
 
 
 const Main = () => {
@@ -90,18 +91,37 @@ const Main = () => {
       <summary className={style.title}>Pratos</summary>
       <div className={style.container}>
         <ParaComer 
-        nome="Hamburguer x"
-        imageSRC= {Hamburguer}
-        descricao="Hamburguer x"
-        preco='R$: 30,00'
-        ingredientes="Queijo, farofa de bacon, creme de ceblo e maionese.">
+        nome="File de frago"
+        imageSRC= {File_frango}
+        descricao="File de frango"
+        preco='R$: 50,00'
+        ingredientes="Acompanha arroz, vinagrete, farofa e fritas">
         </ParaComer>
 
-        </div>
-    </details>
+        <ParaComer 
+        nome="File de frago"
+        imageSRC= {File_frango}
+        descricao="File de frango"
+        preco='R$: 50,00'
+        ingredientes="Acompanha arroz, vinagrete, farofa e fritas">
+        </ParaComer>
 
-    <details>
-      <summary className={style.title}>Fritas</summary>
+        <ParaComer 
+        nome="File de frago"
+        imageSRC= {File_frango}
+        descricao="File de frango"
+        preco='R$: 50,00'
+        ingredientes="Acompanha arroz, vinagrete, farofa e fritas">
+        </ParaComer>
+
+        <ParaComer 
+        nome="File de frago"
+        imageSRC= {File_frango}
+        descricao="File de frango"
+        preco='R$: 50,00'
+        ingredientes="Acompanha arroz, vinagrete, farofa e fritas">
+        </ParaComer>
+        </div>
     </details>
 
     </div>
