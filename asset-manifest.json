@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hamburgueria/static/css/main.ad980218.css",
-    "main.js": "/hamburgueria/static/js/main.919e8ed9.js",
-    "static/js/787.5d9114d7.chunk.js": "/hamburgueria/static/js/787.5d9114d7.chunk.js",
-    "static/media/batata_frita.jpg": "/hamburgueria/static/media/batata_frita.200d501841c5e37b4f8b.jpg",
-    "index.html": "/hamburgueria/index.html",
-    "main.ad980218.css.map": "/hamburgueria/static/css/main.ad980218.css.map",
-    "main.919e8ed9.js.map": "/hamburgueria/static/js/main.919e8ed9.js.map",
-    "787.5d9114d7.chunk.js.map": "/hamburgueria/static/js/787.5d9114d7.chunk.js.map"
+    "main.css": "/Hamburgueria/static/css/main.ad980218.css",
+    "main.js": "/Hamburgueria/static/js/main.44069075.js",
+    "static/js/787.5d9114d7.chunk.js": "/Hamburgueria/static/js/787.5d9114d7.chunk.js",
+    "static/media/batata_frita.jpg": "/Hamburgueria/static/media/batata_frita.200d501841c5e37b4f8b.jpg",
+    "index.html": "/Hamburgueria/index.html",
+    "main.ad980218.css.map": "/Hamburgueria/static/css/main.ad980218.css.map",
+    "main.44069075.js.map": "/Hamburgueria/static/js/main.44069075.js.map",
+    "787.5d9114d7.chunk.js.map": "/Hamburgueria/static/js/787.5d9114d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad980218.css",
-    "static/js/main.919e8ed9.js"
+    "static/js/main.44069075.js"
   ]
 }
