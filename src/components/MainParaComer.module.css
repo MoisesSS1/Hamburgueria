@@ -1,6 +1,6 @@
 .main {
     text-align: center;
-    margin: 20px auto;
+    padding-top: 50px;
 }
 
 .container {
@@ -14,4 +14,9 @@
     text-align: left;
     font-size: 1.85em;
     padding-left: 20px;
+}
+
+summary img{
+    width: 20px;
+    margin-right: 10px;
 }

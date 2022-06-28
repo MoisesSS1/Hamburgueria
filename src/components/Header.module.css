@@ -1,9 +1,9 @@
 .topo {
-    border-bottom: 1px solid ;
-    box-shadow: 0 0 1em black;
-    background-color: rgb(227, 82, 53);
-   
-    opacity: .9;
+    width: 100%;
+    box-shadow: 0 0 1em rgb(120, 119, 119);
+    background-color: rgb(215, 139, 139);
+    position: fixed;
+    border-radius: 0px 0px 100px 100px;
 }
 
 
