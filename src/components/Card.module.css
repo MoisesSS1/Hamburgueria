@@ -1,6 +1,6 @@
 .card {
     font-size: 1.2em;
-    width: 30%;
+    width: 300px;
     background-color: rgb(255, 255, 255);
     text-align: center;
     border-radius: 20px;
@@ -29,4 +29,14 @@ summary .card_img{
 
 summary{
     padding-bottom: 5px;
+}
+
+
+@media (max-width:800px) {
+
+    .card{
+        font-size: 0.9em;
+        margin: 10px;
+        width: 150px;
+    }
 }

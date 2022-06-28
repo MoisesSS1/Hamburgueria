@@ -1,6 +1,12 @@
 .main {
+    width: 100%;
+    
     text-align: center;
     padding-top: 80px;
+}
+
+summary{
+    list-style: none;
 }
 
 .container {
