@@ -1,6 +1,7 @@
 .main {
+    margin: 0px 100px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 80px;
 }
 
 .container {
@@ -12,11 +13,20 @@
 
 .title {
     text-align: left;
+    width: 300px;
     font-size: 1.85em;
     padding-left: 20px;
+    background-color: rgb(210, 201, 140);
+    border-radius: 20px;
 }
+
 
 summary img{
     width: 20px;
     margin-right: 10px;
 }
+
+details{
+    margin-top: 30px;
+}
+

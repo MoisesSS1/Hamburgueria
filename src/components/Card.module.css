@@ -1,22 +1,34 @@
 .card {
+    font-size: 1.2em;
     width: 300px;
     background-color: rgb(255, 255, 255);
     text-align: center;
     border-radius: 20px;
     margin: 40px;
     box-shadow: 1px 1px 5px rgb(0, 0, 0);
+
 }
 
 .card .img{
     width: 100%;
-
     object-fit: cover;
 }
 
 .card p {
-    padding: 15px 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 summary .card_img{
     width: 10px;
+}
+
+.card p:last-child{
+    padding-bottom: 20px;
+
+}
+
+summary{
+    padding-top: 0px;
+    padding-bottom: 5px;
 }
