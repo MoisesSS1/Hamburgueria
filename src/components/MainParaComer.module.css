@@ -12,12 +12,21 @@
 }
 
 .title {
+    padding-top: 5px;
     text-align: left;
     width: 300px;
-    font-size: 1.85em;
+    font-size: 1.55em;
     padding-left: 20px;
-    background-color: rgb(198, 195, 177);
     border-radius: 20px;
+    background-color: rgb(212, 183, 183);
+    background: linear-gradient(238deg, rgba(224,224,224,1) 0%, rgb(159, 74, 74) 59%);
+
+}
+
+.title:hover {
+    background: none;
+    border: 1px solid green;
+    cursor: pointer;
 }
 
 
