@@ -13,7 +13,7 @@ const Card = (props) => {
         <p>{props.preco}</p>
 
         <details>
-        <summary><img className={styles.card_img} src={SetaDesce}/>Ingredientes</summary>
+        <summary className={styles.ingredientes}><img className={styles.card_img} src={SetaDesce}/>Ingredientes</summary>
         <p>{props.ingredientes}</p>
         
         </details>

@@ -6,17 +6,16 @@
     border-radius: 20px;
     margin: 40px;
     box-shadow: 1px 1px 5px rgb(0, 0, 0);
-
 }
 
 .card .img{
     width: 100%;
     object-fit: cover;
+    padding-top: 5px;
 }
 
 .card p {
     padding-top: 10px;
-    padding-bottom: 5px;
 }
 
 summary .card_img{
@@ -29,6 +28,5 @@ summary .card_img{
 }
 
 summary{
-    padding-top: 0px;
     padding-bottom: 5px;
 }
