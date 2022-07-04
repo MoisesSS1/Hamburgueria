@@ -13,25 +13,32 @@ const Sobremesa = () => {
 
         <div className={style.container}>
             <Card 
-            nome="Suco x"
+            nome="Sorvete x"
             imageSRC= {Sorvete}
-            descricao="Bebida aleatória"
+            descricao="Sorvete aleatória"
             preco='R$: 15,59'
-            ingredientes="Limão, gelo, laranja">
+            ingredientes="Chocolate, gelo, calda">
             </Card>
             <Card 
-            nome="Suco x"
+            nome="Sorvete x"
             imageSRC= {Sorvete}
-            descricao="Bebida aleatória"
+            descricao="Sorvete aleatória"
             preco='R$: 15,59'
-            ingredientes="Limão, gelo, laranja">
+            ingredientes="Chocolate, gelo, calda">
             </Card>
             <Card 
-            nome="Suco x"
+            nome="Sorvete x"
             imageSRC= {Sorvete}
-            descricao="Bebida aleatória"
+            descricao="Sorvete aleatória"
             preco='R$: 15,59'
-            ingredientes="Limão, gelo, laranja">
+            ingredientes="Chocolate, gelo, calda">
+            </Card>
+            <Card 
+            nome="Sorvete x"
+            imageSRC= {Sorvete}
+            descricao="Sorvete aleatória"
+            preco='R$: 15,59'
+            ingredientes="Chocolate, gelo, calda">
             </Card>
 
         </div>
