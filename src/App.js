@@ -23,9 +23,9 @@ function App() {
       <BrowserRouter>
       <Header></Header>
           <Routes>
-          <Route path='/comidas' element={ <ParaComer />}/>
-          <Route path='/sobremesa' element={ <Sobremesa />}/>
-          <Route path='/bebidas' element={ <ParaBeber />}/>
+          <Route path='/Hamburgueria/comidas' element={ <ParaComer />}/>
+          <Route path='/Hamburgueria/sobremesa' element={ <Sobremesa />}/>
+          <Route path='/Hamburgueria/bebidas' element={ <ParaBeber />}/>
 
           </Routes>
       </BrowserRouter>
