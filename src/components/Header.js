@@ -7,9 +7,9 @@ const Header = ()=>{
         <div className={styles.topo}>
         <nav>
             <ul>
-                <Link to='/comidas'>Para comer</Link>
-                <Link to='/bebidas'>Para beber</Link>
-                <Link to='/sobremesa'>Sobremesa</Link>
+                <Link to='/Hamburgueria/comidas'>Para comer</Link>
+                <Link to='/Hamburgueria/bebidas'>Para beber</Link>
+                <Link to='/Hamburgueria/sobremesa'>Sobremesa</Link>
             </ul>
         </nav>
     </div>
