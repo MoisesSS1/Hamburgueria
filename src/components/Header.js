@@ -1,4 +1,5 @@
 import styles from './Header.module.css'
+import { Link } from 'react-router-dom';
 
 const Header = ()=>{
 
@@ -6,9 +7,9 @@ const Header = ()=>{
         <div className={styles.topo}>
         <nav>
             <ul>
-                <li><a href="">Para comer</a></li>
-                <li><a href="">Para beber</a></li>
-                <li><a href="">Sobremessa</a></li>
+                <Link to='/comidas'>Para comer</Link>
+                <Link to='/bebidas'>Para beber</Link>
+                <Link to='/sobremesa'>Sobremesa</Link>
             </ul>
         </nav>
     </div>
