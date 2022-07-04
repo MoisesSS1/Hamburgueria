@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hamburgueria/static/css/main.5583755c.css",
-    "main.js": "/Hamburgueria/static/js/main.8f6af294.js",
+    "main.js": "/Hamburgueria/static/js/main.661437a7.js",
     "static/js/787.5d9114d7.chunk.js": "/Hamburgueria/static/js/787.5d9114d7.chunk.js",
     "static/media/bebida2.jpg": "/Hamburgueria/static/media/bebida2.b1d76f122b019ac08a97.jpg",
     "static/media/sorvete.jpg": "/Hamburgueria/static/media/sorvete.3ee17c771300b38efa40.jpg",
@@ -12,11 +12,11 @@
     "static/media/setadesce.svg": "/Hamburgueria/static/media/setadesce.6ca04a0279d5fa54a365f54d0efc6fc8.svg",
     "static/media/soma.svg": "/Hamburgueria/static/media/soma.4a78657f77c336e3e51076a3b39280d0.svg",
     "main.5583755c.css.map": "/Hamburgueria/static/css/main.5583755c.css.map",
-    "main.8f6af294.js.map": "/Hamburgueria/static/js/main.8f6af294.js.map",
+    "main.661437a7.js.map": "/Hamburgueria/static/js/main.661437a7.js.map",
     "787.5d9114d7.chunk.js.map": "/Hamburgueria/static/js/787.5d9114d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5583755c.css",
-    "static/js/main.8f6af294.js"
+    "static/js/main.661437a7.js"
   ]
 }
